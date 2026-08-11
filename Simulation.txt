@@ -1,0 +1,13 @@
+Reset
+  ↓
+RED
+  ↓
+GREEN
+  ↓
+YELLOW
+  ↓
+RED
+  ↓
+GREEN
+  ↓
+...
